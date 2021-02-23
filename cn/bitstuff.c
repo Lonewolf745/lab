@@ -1,4 +1,3 @@
-//18501A0581
 #include<stdio.h>
 #include<string.h>
 
