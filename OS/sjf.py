@@ -39,5 +39,5 @@ for i in range(n):
 
 print('\nTotal wt:',twt)
 print('Total tat:',ttat)
-print('Avg wt:',twt/np)
-print('Avg tat:',ttat/np)
+print('Avg wt:',twt/n)
+print('Avg tat:',ttat/n)
