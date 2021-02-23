@@ -33,9 +33,6 @@ def encodeData(data, key):
     remainder = mod2div(appended_data, key) 
     codeword = data + remainder 
     return codeword 
-
-
-
 polynomial = '1100000001111'
 dataword = input('enter data word:')
 ans = encodeData(dataword,polynomial)
